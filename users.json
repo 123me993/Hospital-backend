@@ -1,8 +1,8 @@
 {
   "id": "admin-1",
   "name": "Super Admin",
-  "email": "taliatibrahim457@gmail.com",
-  "password": "admin123",
+  "email": "admin@hospital.com",
+  "password": "$2b$10$KJ2X1dP2/fYB9r7l2H0bqeXn6K2p8aFqZ3bzZqW4e3/XK8r5KXv1K",
   "role": "admin"
 }
 []
