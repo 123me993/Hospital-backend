@@ -1,1 +1,8 @@
+{
+  "id": "admin-1",
+  "name": "Super Admin",
+  "email": "taliatibrahim457@gmail.com",
+  "password": "admin123",
+  "role": "admin"
+}
 []
